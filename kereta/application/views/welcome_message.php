@@ -9,9 +9,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<br>
 		<br>
 		<div class="">
-			<a href="<?php echo site_url(); ?>/Welcome/index"><button class="btn btn-success" type="button">LEFT JOIN</button></a>
-			<a href="<?php echo site_url(); ?>/Welcome/index1"><button class="btn btn-success" type="button">RIGHT JOIN</button></a>
-			<a href="<?php echo site_url(); ?>/Welcome/index2"><button class="btn btn-success" type="button">INNER JOIN</button></a>
+			<a href="<?php echo site_url(); ?>/Welcome/index"><button class="btn btn-dark" type="button">LEFT JOIN</button></a>
+			<a href="<?php echo site_url(); ?>/Welcome/index1"><button class="btn btn-dark" type="button">RIGHT JOIN</button></a>
+			<a href="<?php echo site_url(); ?>/Welcome/index2"><button class="btn btn-dark" type="button">INNER JOIN</button></a>
 		</div>
 
 		<br><br><br><br>
