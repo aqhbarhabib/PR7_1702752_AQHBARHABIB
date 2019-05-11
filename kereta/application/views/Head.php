@@ -10,8 +10,8 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-  <a class="navbar-brand" href="#">KERETA JOIN PRA7</a>
-  <button class="navbar-toggler" aria-expanded="false" aria-controls="navbarColor01" aria-label="Toggle navigation" type="button" data-target="#navbarColor01" data-toggle="collapse">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-</nav>
+    <a class="navbar-brand" href="#">Kereta Join PR7</a>
+    <button class="navbar-toggler" aria-expanded="false" aria-controls="navbarColor01" aria-label="Toggle navigation" type="button" data-target="#navbarColor01" data-toggle="collapse">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </nav>
